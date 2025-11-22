@@ -1,0 +1,6 @@
+Flask==3.0.3
+mysql-connector-python==9.0.0
+
+# python -m venv venv
+# venv\Scripts\activate
+# pip install -r requirements.txt
